@@ -8,12 +8,16 @@ During my internship at Cable Solutions (Pvt) Ltd., I was assigned my first tech
 
 I didn’t have specialized electrical CAD software at the time, so I used **AutoCAD** to manually draw every block and connection for over **30 components**.
 
+---
+
 ## 📌 Project Highlights
 - Manual creation of all blocks and connections in AutoCAD
 - **Traced each component path carefully and assembled the diagram component by component** during troubleshooting to ensure accuracy
 - Update the diagram for changes during troubleshooting and system updates
 
 ![Diagram](diagram_preview.png)
+
+---
 
 ## Lessons Learned
 - Importance of detailed tracing and accuracy in electrical diagrams
@@ -23,7 +27,7 @@ I didn’t have specialized electrical CAD software at the time, so I used **Aut
 ---
 
 ## 🛠 Tools & Software Used
-- **CAD Software:** Onshape
+- **CAD Software:** AutoCAD
 
 ---
 
