@@ -1,12 +1,12 @@
 # Buncher Machine Panel Block Diagram
-Buncher Machine Panel Block Diagram (Internship Project)
+Redesigned Power Distribution Block Diagram for Buncher Machine Panel (Internship Project)
 
 ---
 
 ## 🔎 Overview
 During my internship at Cable Solutions (Pvt) Ltd., I was assigned my first technical project: create a complete **power distribution block diagram** for a redesigning buncher machine panel board.  
 
-I didn’t have specialized electrical CAD software at the time, so I used **AutoCAD** to manually draw every block and connection for over **30 components**.
+At the time, I didn’t have access to specialized electrical CAD tools, so I manually created all block diagrams using AutoCAD for over **30 components**.
 
 ---
 
@@ -32,6 +32,14 @@ I didn’t have specialized electrical CAD software at the time, so I used **Aut
 
 ## 🛠 Tools & Software Used
 - **CAD Software:** AutoCAD
+
+---
+
+## 🎯 Skills
+- AutoCAD (Manual Electrical Drafting)
+- Electrical Schematic Design
+- Troubleshooting & Layout Updating
+- Component Tracing and Documentation
 
 ---
 
