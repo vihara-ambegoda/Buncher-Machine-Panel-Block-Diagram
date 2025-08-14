@@ -19,7 +19,7 @@ I didn’t have specialized electrical CAD software at the time, so I used **Aut
 ![Diagram](s2.png)
 ![Diagram](s3.png)
 
-**Note:** The diagram images are intentionally zoomed out to avoid revealing any sensitive or proprietary details.
+> **Note:** The diagram images are intentionally zoomed out to avoid revealing any sensitive or proprietary details.
 
 ---
 
