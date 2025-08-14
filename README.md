@@ -1,4 +1,4 @@
-# Buncher-Machine-Panel-Block-Diagram
+# Buncher Machine Panel Block Diagram
 Buncher Machine Panel Block Diagram (Internship Project)
 
 ---
@@ -19,7 +19,7 @@ I didn’t have specialized electrical CAD software at the time, so I used **Aut
 
 ---
 
-## Lessons Learned
+## 📑 Lessons Learned
 - Importance of detailed tracing and accuracy in electrical diagrams
 - Flexibility to update designs in response to real-world changes
 - Hands-on experience with AutoCAD for complex electrical layouts
