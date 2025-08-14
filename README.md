@@ -15,7 +15,11 @@ I didn’t have specialized electrical CAD software at the time, so I used **Aut
 - **Traced each component path carefully and assembled the diagram component by component** during troubleshooting to ensure accuracy
 - Update the diagram for changes during troubleshooting and system updates
 
-![Diagram](diagram_preview.png)
+![Diagram](s1.png)
+![Diagram](s2.png)
+![Diagram](s3.png)
+
+**Note:** The diagram images are intentionally zoomed out to avoid revealing any sensitive or proprietary details.
 
 ---
 
