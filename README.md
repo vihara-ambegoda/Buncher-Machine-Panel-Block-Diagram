@@ -4,7 +4,7 @@ Redesigned Power Distribution Block Diagram for Buncher Machine Panel (Internshi
 ---
 
 ## 🔎 Overview
-During my internship at Cable Solutions (Pvt) Ltd., I was assigned my first technical project: create a complete **power distribution block diagram** for a redesigning buncher machine panel board.  
+During my internship at Cable Solutions (Pvt) Ltd. in 2019, I was assigned my first technical project: create a complete **power distribution block diagram** for a redesigning buncher machine panel board.  
 
 At the time, I didn’t have access to specialized electrical CAD tools, so I manually created all block diagrams using AutoCAD for over **30 components**.
 
